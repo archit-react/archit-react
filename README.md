@@ -16,13 +16,13 @@ Currently seeking opportunities to contribute to impactful front-end systems, de
 
 ### Selected Work
 
-| Project | Summary | Live | Code |
-|--------|---------|------|------|
-| **AI Code Generator** | Built with Gemini API, this React app uses advanced UI layering, language toggling, and typewriter animation. | [Live](https://ai-code-generator-navy.vercel.app/) | [GitHub](https://github.com/archit-react/AI-Code-Generator) |
-| **PulseBoardX (Admin Dashboard)** | Analytics dashboard with charting, filtering, role-based UI patterns, and Headless UI modals. | [Live](https://admin-dashboard-green-nine.vercel.app/) | [GitHub](https://github.com/archit-react/Admin-Dashboard) |
-| **AI Chat Interface** | Gemini-powered chat system with real-time UX, model selector, and scroll memory. Fully responsive and accessible. | [Live](https://ai-chat-bot-app-seven.vercel.app/) | [GitHub](https://github.com/archit-react/AI-ChatBot) |
-| **Post Scheduler UI** | Full-stack ready UI with post scheduling, timezone-aware reminders, audio alerts, and local caching. | Coming Soon | [GitHub](https://github.com/archit-react/Post-Scheduler-UI) |
-| **Link in Bio Platform** | Clean, extensible UI built for creators and personal branding — routing, responsiveness, and clean component structure. | Coming Soon | [GitHub](https://github.com/archit-react/link-in-bio-app) |
+| Project                           | Summary                                                                                                                 | Live                                                   | Code                                                        |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
+| **AI Code Generator**             | Built with Gemini API, this React app uses advanced UI layering, language toggling, and typewriter animation.           | [Live](https://ai-code-generator-navy.vercel.app/)     | [GitHub](https://github.com/archit-react/AI-Code-Generator) |
+| **PulseBoardX (Admin Dashboard)** | Analytics dashboard with charting, filtering, role-based UI patterns, and Headless UI modals.                           | [Live](https://admin-dashboard-green-nine.vercel.app/) | [GitHub](https://github.com/archit-react/Admin-Dashboard)   |
+| **AI Chat Interface**             | Gemini-powered chat system with real-time UX, model selector, and scroll memory. Fully responsive and accessible.       | [Live](https://ai-chat-bot-app-seven.vercel.app/)      | [GitHub](https://github.com/archit-react/AI-ChatBot)        |
+| **Post Scheduler UI**             | Full-stack ready UI with post scheduling, timezone-aware reminders, audio alerts, and local caching.                    | [Live](https://post-scheduler-ui.vercel.app/)          | [GitHub](https://github.com/archit-react/Post-Scheduler-UI) |
+| **Link in Bio Platform**          | Clean, extensible UI built for creators and personal branding — routing, responsiveness, and clean component structure. | [Live](https://linkinbio-app.vercel.app/)              | [GitHub](https://github.com/archit-react/link-in-bio-app)   |
 
 ---
 
@@ -40,9 +40,9 @@ Currently seeking opportunities to contribute to impactful front-end systems, de
 ### Development Timeline
 
 ```
-Oct 2024 – Jan 2025: Focused learning (HTML/CSS/JS)  
-Jan – Feb 2025: React fundamentals + component design  
-Feb – Apr 2025: Full-stack ready projects (AI, dashboards, schedulers)  
+Oct 2024 – Jan 2025: Focused learning (HTML/CSS/JS)
+Jan – Feb 2025: React fundamentals + component design
+Feb – Apr 2025: Full-stack ready projects (AI, dashboards, schedulers)
 May – Present: UI polishing, testing, animations, and performance optimization
 ```
 
@@ -52,9 +52,9 @@ May – Present: UI polishing, testing, animations, and performance optimization
 
 If you're looking for a developer who:
 
-- Treats UI like a product, not just code  
-- Brings modern patterns (hooks, context, atomic components, testing)  
-- Can ship fast, learn faster, and improve DX/UX collaboratively  
+- Treats UI like a product, not just code
+- Brings modern patterns (hooks, context, atomic components, testing)
+- Can ship fast, learn faster, and improve DX/UX collaboratively
 - Delivers clean GitHub repos, live demos, and testable UIs
 
 I’d love to connect. I’m actively exploring front-end opportunities with teams that value code quality, curiosity, and ownership.
