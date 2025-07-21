@@ -39,12 +39,11 @@ Currently seeking opportunities to contribute to impactful front-end systems, de
 
 ### Development Timeline
 
-```
-Oct 2024 – Jan 2025: Focused learning (HTML/CSS/JS)
-Jan – Feb 2025: React fundamentals + component design
-Feb – Apr 2025: Full-stack ready projects (AI, dashboards, schedulers)
-May – Present: UI polishing, testing, animations, and performance optimization
-```
+Jun 2024 – Aug 2024: Core front-end foundations (HTML, CSS, JavaScript)
+Sep 2024 – Nov 2024: React fundamentals and reusable component design
+Dec 2024 – Feb 2025: Real-world projects (AI apps, dashboards, schedulers)
+Mar 2025 – Present: UI polish, animations, testing (Vitest), and performance optimization
+
 
 ---
 
