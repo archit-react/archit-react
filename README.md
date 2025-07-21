@@ -67,6 +67,3 @@ I’d love to connect. I’m actively exploring front-end opportunities with tea
 - [GitHub](https://github.com/archit-react)
 - Portfolio (Coming Soon)
 
----
-
-_This profile and the work inside it represent focused, real-world experience aligned with top-tier engineering expectations._
