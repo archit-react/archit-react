@@ -6,7 +6,7 @@
 
 ### About
 
-A front-end engineer focused on delivering scalable, maintainable, and accessible user interfaces. Over the past 6–12 months, been independently built and deployed high-quality web applications that reflect modern development standards — from clean component architecture to dark mode, i18n, and real-time APIs.
+A front-end engineer focused on delivering scalable, maintainable, and accessible user interfaces. Over the past 1 year, been independently built and deployed high-quality web applications that reflect modern development standards — from clean component architecture to dark mode, i18n, and real-time APIs.
 
 Approaching blends design thinking, performance-first coding, and production-level testing. specializing in building interactive, polished UIs using React and TypeScript, with a strong emphasis on DX, UX, and accessibility.
 
