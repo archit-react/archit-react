@@ -47,6 +47,7 @@ Currently seeking opportunities to contribute to impactful front-end systems, de
 | Mar 2025 – Present  | UI polish, animations, testing (Vitest), and performance optimization  |
 
 
+
 ---
 
 ### Hiring Managers & Recruiters
