@@ -1,6 +1,6 @@
 # Archit Sharma
 
-**Front-End Engineer | React | TypeScript | Tailwind CSS | Vite | Firebase | Vitest**
+**Full-Stack Developer | React | Node.js | TypeScript | MongoDB | Tailwind CSS | Firebase**
 
 ---
 
