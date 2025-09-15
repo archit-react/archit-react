@@ -6,11 +6,11 @@
 
 ### About
 
-A front-end engineer focused on delivering scalable, maintainable, and accessible user interfaces. Over the past 1 year, been independently built and deployed high-quality web applications that reflect modern development standards — from clean component architecture to dark mode, i18n, and real-time APIs.
+Full-stack developer building scalable, performant, and user-centric web applications. With expertise across both front-end engineering (React, TypeScript, Tailwind) and back-end systems (Node.js, Express, MongoDB, Firebase), I deliver applications that balance sleek design with robust functionality.
 
-Approaching blends design thinking, performance-first coding, and production-level testing. specializing in building interactive, polished UIs using React and TypeScript, with a strong emphasis on DX, UX, and accessibility.
+I thrive on bridging the gap between UI polish and backend reliability — whether it’s designing responsive, accessible interfaces or architecting APIs, authentication, and database models. My approach blends developer experience (DX), user experience (UX), and system performance into every project.
 
-Currently seeking opportunities to contribute to impactful front-end systems, design libraries, and developer tooling.
+Currently seeking opportunities to contribute as a Full-Stack Engineer in teams that value innovation, code quality, and scalable systems.
 
 ---
 
@@ -18,8 +18,8 @@ Currently seeking opportunities to contribute to impactful front-end systems, de
 
 | Project                           | Summary                                                                                                                 | Live                                                   | Code                                                        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
+| **Rev9 (Revenue Dashboard)** | Full-stack analytics dashboard with revenue tracking, dynamic theming, CSV export, and animated charts.                      | [Live](https://revenue-dashboard-beige.vercel.app/) | [GitHub](https://github.com/archit-react/rev9)   |
 | **AI Code Generator**             | Built with Gemini API, this React app uses advanced UI layering, language toggling, and typewriter animation.           | [Live](https://ai-code-generator-navy.vercel.app/)     | [GitHub](https://github.com/archit-react/AI-Code-Generator) |
-| **PulseBoardX (Admin Dashboard)** | Analytics dashboard with charting, filtering, role-based UI patterns, and Headless UI modals.                           | [Live](https://admin-dashboard-green-nine.vercel.app/) | [GitHub](https://github.com/archit-react/Admin-Dashboard)   |
 | **AI Chat Interface**             | Gemini-powered chat system with real-time UX, model selector, and scroll memory. Fully responsive and accessible.       | [Live](https://ai-chat-bot-app-seven.vercel.app/)      | [GitHub](https://github.com/archit-react/AI-ChatBot)        |
 | **Post Scheduler UI**             | Full-stack ready UI with post scheduling, timezone-aware reminders, audio alerts, and local caching.                    | [Live](https://post-scheduler-ui.vercel.app/)          | [GitHub](https://github.com/archit-react/Post-Scheduler-UI) |
 | **Link in Bio Platform**          | Clean, extensible UI built for creators and personal branding — routing, responsiveness, and clean component structure. | [Live](https://linkinbio-app.vercel.app/)              | [GitHub](https://github.com/archit-react/link-in-bio-app)   |
@@ -28,23 +28,24 @@ Currently seeking opportunities to contribute to impactful front-end systems, de
 
 ### Core Competencies
 
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks**: React, Vite, Tailwind CSS, Firebase
+- **Frontend**: React, TypeScript, Tailwind CSS, Vite, Accessibility, Animations
+- **Backend**: Node.js, Express, REST APIs, Authentication, Firebase
+- **Database**: MongoDB, Schema Design, Query Optimization
 - **Testing**: Vitest, React Testing Library
-- **UI/UX**: Accessibility (WCAG), Mobile-first, Dark Mode, Design Systems
-- **Performance**: Lighthouse-optimized builds, lazy loading, bundling
-- **Tooling**: Git, GitHub Actions, Vercel, i18n
+- **DevOps**: Vercel, Render, GitHub Actions
+- **System Design**: Modular architecture, API-first, cloud-ready builds
+
 
 ---
 
 ### Development Timeline
 
-| Period              | Focus Area                                                             |
-|---------------------|------------------------------------------------------------------------|
-| Jun 2024 – Aug 2024 | Core front-end foundations (HTML, CSS, JavaScript)                     |
-| Sep 2024 – Nov 2024 | React fundamentals and reusable component design                       |
-| Dec 2024 – Feb 2025 | Real-world projects (AI apps, dashboards, schedulers)                  |
-| Mar 2025 – Present  | UI polish, animations, testing (Vitest), and performance optimization  |
+| Period              | Focus Area                                                            |
+| ------------------- | --------------------------------------------------------------------- |
+| Jun 2024 – Aug 2024 | Front-end foundations (React, TypeScript, component design)           |
+| Sep 2024 – Nov 2024 | Back-end APIs (Node.js, Express) + MongoDB                            |
+| Dec 2024 – Feb 2025 | Full-stack apps (AI tools, dashboards, schedulers)                    |
+| Mar 2025 – Present  | Optimizations: testing (Vitest), cloud deployment, performance tuning |
 
 
 
@@ -54,12 +55,12 @@ Currently seeking opportunities to contribute to impactful front-end systems, de
 
 If you're looking for a developer who:
 
-- Treats UI like a product, not just code
-- Brings modern patterns (hooks, context, atomic components, testing)
-- Can ship fast, learn faster, and improve DX/UX collaboratively
-- Delivers clean GitHub repos, live demos, and testable UIs
+- Deliver end-to-end features from UI to database
+- Build scalable APIs and clean front-ends with equal depth
+- Thrive in fast-paced, collaborative teams
+- Ship production-ready projects with modern stacks
 
-I’d love to connect. I’m actively exploring front-end opportunities with teams that value code quality, curiosity, and ownership.
+I’d love to connect. Actively open to full-stack opportunities where innovation meets scale.
 
 ---
 
@@ -67,5 +68,5 @@ I’d love to connect. I’m actively exploring front-end opportunities with tea
 
 - [LinkedIn](https://www.linkedin.com/in/archit-react)
 - [GitHub](https://github.com/archit-react)
-- Portfolio (Coming Soon)
+- Portfolio (https://portfolio-archit-three.vercel.app/)
 
