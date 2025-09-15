@@ -68,5 +68,5 @@ I’d love to connect. Actively open to full-stack opportunities where innovatio
 
 - [LinkedIn](https://www.linkedin.com/in/archit-react)
 - [GitHub](https://github.com/archit-react)
-- Portfolio (https://portfolio-archit-three.vercel.app/)
+- [Portfolio](https://portfolio-archit-three.vercel.app)
 
