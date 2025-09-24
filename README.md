@@ -8,8 +8,6 @@
 
 Full-stack developer building scalable, performant, and user-centric web applications. With expertise across both front-end engineering (React, TypeScript, Tailwind) and back-end systems (Node.js, Express, MongoDB, Firebase), I deliver applications that balance sleek design with robust functionality.
 
-I thrive on bridging the gap between UI polish and backend reliability — whether it’s designing responsive, accessible interfaces or architecting APIs, authentication, and database models. My approach blends developer experience (DX), user experience (UX), and system performance into every project.
-
 Currently seeking opportunities to contribute as a Full-Stack Engineer in teams that value innovation, code quality, and scalable systems.
 
 ---
