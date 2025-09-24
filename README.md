@@ -16,11 +16,9 @@ Currently seeking opportunities to contribute as a Full-Stack Engineer in teams 
 
 | Project                           | Summary                                                                                                                 | Live                                                   | Code                                                        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
-| **Rev9 (Revenue Dashboard)** | Full-stack analytics dashboard with revenue tracking, dynamic theming, CSV export, and animated charts.                      | [Live](https://revenue-dashboard-beige.vercel.app/) | [GitHub](https://github.com/archit-react/rev9)   |
-| **AI Code Generator**             | Built with Gemini API, this React app uses advanced UI layering, language toggling, and typewriter animation.           | [Live](https://ai-code-generator-navy.vercel.app/)     | [GitHub](https://github.com/archit-react/AI-Code-Generator) |
-| **AI Chat Interface**             | Gemini-powered chat system with real-time UX, model selector, and scroll memory. Fully responsive and accessible.       | [Live](https://ai-chat-bot-app-seven.vercel.app/)      | [GitHub](https://github.com/archit-react/AI-ChatBot)        |
-| **Post Scheduler UI**             | Full-stack ready UI with post scheduling, timezone-aware reminders, audio alerts, and local caching.                    | [Live](https://post-scheduler-ui.vercel.app/)          | [GitHub](https://github.com/archit-react/Post-Scheduler-UI) |
-| **Link in Bio Platform**          | Clean, extensible UI built for creators and personal branding — routing, responsiveness, and clean component structure. | [Live](https://linkinbio-app.vercel.app/)              | [GitHub](https://github.com/archit-react/link-in-bio-app)   |
+| **Rev9 (Revenue Dashboard)** | Full-stack analytics dashboard with revenue tracking, dynamic theming, CSV export, and animated charts.          | [Live](https://revenue-dashboard-beige.vercel.app/) | [GitHub](https://github.com/archit-react/rev9)   |
+| **CosmaX - AI**     | Next-gen AI assistant with Gemini API, real-time chat, animated UI, dark mode, and intelligent responses.         | [Live](https://ai-code-generator-navy.vercel.app/)     | [GitHub](https://github.com/archit-react/AI-Code-Generator) |
+
 
 ---
 
