@@ -17,7 +17,7 @@ Currently seeking opportunities to contribute as a **Frontend Engineer** in team
 | Project                           | Summary                                                                                                 | Live                                                   | Code                                                        |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
 | **Rev9 (Analytics UI)** | High-performance React dashboard featuring dynamic theming, complex data visualization, and CSV export. | [Live](https://revenue-dashboard-beige.vercel.app/)    | [GitHub](https://github.com/archit-react/rev9)              |
-| **CosmaX (AI Interface)** | Next.js AI chat interface with real-time streaming, optimistic UI updates, and a glassmorphism design.  | [Live](https://ai-code-generator-navy.vercel.app/)     | [GitHub](https://github.com/archit-react/AI-Code-Generator) |
+| **CosmaX (AI Interface)** | Next.js AI chat interface with real-time streaming, optimistic UI updates, and a glassmorphism design. | [Live](https://ai-code-generator-navy.vercel.app/)     | [GitHub](https://github.com/archit-react/AI-Code-Generator) |
 
 ---
 
