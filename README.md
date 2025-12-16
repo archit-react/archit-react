@@ -45,5 +45,5 @@ I’d love to connect. Actively open to **Remote Frontend** opportunities.
 
 ### Contact
 
-- [LinkedIn](https://www.linkedin.com/in/archit-react)
+- [LinkedIn](https://www.linkedin.com/in/arch1t-in)
 - [Portfolio](https://archit.sbs/)
